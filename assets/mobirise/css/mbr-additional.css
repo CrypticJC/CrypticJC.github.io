@@ -1936,7 +1936,7 @@ body {
 .cid-rhHjfNu4m3 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 @media (min-width: 992px) {
   .cid-rhHjfNu4m3 .mbr-figure {
@@ -1950,6 +1950,18 @@ body {
 }
 .cid-rhHjfNu4m3 .mbr-text {
   color: #767676;
+}
+.cid-rhSJeioAJo {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rhSJeioAJo .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rhSJeioAJo .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rgtczKcoGh {
   padding-top: 30px;
