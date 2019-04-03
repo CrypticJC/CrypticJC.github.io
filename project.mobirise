@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JConnell",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 13,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "favicon": "",
